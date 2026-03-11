@@ -1,0 +1,5 @@
+{
+  "name": "Bilibili UP Monitor",
+  "description": "A full-stack application to monitor Bilibili UP creators' new videos with Wbi signature bypass.",
+  "requestFramePermissions": []
+}
